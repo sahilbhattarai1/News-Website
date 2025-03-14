@@ -1,0 +1,15 @@
+.navContainer{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    
+}
+
+.change:hover{
+    color: white;
+text-decoration: underline;
+}
+
+body{
+    background-color: #102950;
+}
